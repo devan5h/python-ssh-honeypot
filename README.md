@@ -12,12 +12,12 @@ This project simulates an SSH server to lure attackers and logs their IP address
 - **Analytics Dashboard**: A Flask-based web UI that provides real-time statistics, attack volume graphs, and top attacker IPs.
 
 ## Dashboard Previews
-*(Once you take screenshots of your dashboard, save them in an `assets` folder and uncomment the lines below)*
 
-<!-- 
+
+ 
 ![Dashboard Overview](assets/dashboard_overview.png)
 ![Attack Statistics](assets/attack_stats.png) 
--->
+
 
 ## Setup Instructions
 
